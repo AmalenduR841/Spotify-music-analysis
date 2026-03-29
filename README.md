@@ -54,5 +54,5 @@ Spotify tracks across 6 genres from 1957 to 2020.
 3. Refresh data connection
 
 ## Connect With Me
-- LinkedIn: www.linkedin.com/in/amalendu-r-418b56249
+- LinkedIn: [Amalendu R](https://www.linkedin.com/in/amalendu-r-418b56249)
 ```
